@@ -1,0 +1,28 @@
+{
+  "name": "react_express_mysql_boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allen-alejandro/react_express_mysql_boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allen-alejandro/react_express_mysql_boilerplate/issues"
+  },
+  "homepage": "https://github.com/allen-alejandro/react_express_mysql_boilerplate#readme",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "express": "^4.17.2",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.15",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "webpack-dev-server": "^4.7.3"
+  }
+}
